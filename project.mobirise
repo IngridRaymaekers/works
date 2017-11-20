@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "4.4.1"
   },
   "pages": {
@@ -30,9 +30,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "images/bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/r0000026-2-2000x1324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -44,15 +44,27 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Ingrid Raymaekers",
+          "title": "<span style=\"font-weight: normal;\">Ingrid Raymaekers</span>",
           "text": "Sint Lucas Gent, Grafiek &amp; tekenkunst",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">contact</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">contact</a> ",
           "_tags": [
             "Theme"
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-0"
+          "_anchor": "header4-0",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#c1c1c1"
+            },
+            "H1": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#28324e"
+            }
+          }
         }
       ]
     },
@@ -60,7 +72,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Werk",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -196,7 +208,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
