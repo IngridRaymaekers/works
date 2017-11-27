@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1053",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -40,7 +40,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -170,7 +170,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -301,7 +301,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -432,7 +432,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -696,7 +696,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -881,7 +881,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
