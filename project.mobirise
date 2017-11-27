@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1053",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -37,7 +37,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -48,7 +48,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -148,7 +148,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -159,7 +159,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -330,7 +330,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -341,7 +341,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -461,7 +461,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -472,7 +472,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -591,7 +591,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -602,7 +602,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -678,8 +678,8 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your oNieuwn website in a few clicks! Mobirise helps you cut down develoNipment time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Nieuws",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -722,7 +722,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -733,7 +733,7 @@
             "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
-            "hamburgerColor": "#4c6972"
+            "hamburgerColor": "#475577"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Schilderijen</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Schetsboek</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Over</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Nieuws</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
