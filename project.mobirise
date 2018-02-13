@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1053",
-    "currentPage": "index.html",
+    "currentPage": "schilderijen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 31,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -70,7 +70,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
@@ -200,7 +200,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
@@ -331,7 +331,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
@@ -462,7 +462,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
@@ -726,7 +726,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
@@ -854,6 +854,67 @@
           ],
           "_name": "image1",
           "_anchor": "image1-j"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-293-1400x930.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "MSNBC&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-u",
+          "_styles": {
+            "SMALL": {
+              "color": "#2c2c2c",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-278-1400x2105.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-t"
         }
       ]
     },
@@ -911,7 +972,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://ingridraymaekers.github.io/works/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ingrid Raymaekers</a>",
           "_tags": [
             "Theme"
           ],
