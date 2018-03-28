@@ -918,8 +918,8 @@
         },
         {
           "_params": {
-            "showText": false,
-            "outside": false
+            "showText": true,
+            "outside": true
           },
           "media": {
             "image": {
@@ -936,7 +936,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "2018",
           "_tags": [
             "Theme"
           ],
