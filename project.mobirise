@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "true",
@@ -297,7 +297,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
