@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "true",
@@ -758,7 +758,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r0000025-3-1400x1961.jpg",
+              "src": "@PROJECT_PATH@/assets/images/r0000025-3.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -786,7 +786,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r0000025-4-1400x1961.jpg",
+              "src": "@PROJECT_PATH@/assets/images/r0000025-4.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -813,7 +813,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r0000023-2-1400x2113.jpg",
+              "src": "@PROJECT_PATH@/assets/images/r0000023-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -841,7 +841,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r0000023-3-1400x2113.jpg",
+              "src": "@PROJECT_PATH@/assets/images/r0000023-3.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -868,7 +868,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-293-1400x930.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-277.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -902,7 +902,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-278-1400x2105.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-278.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -929,7 +929,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/obelisk-1400x1998.jpg",
+              "src": "@PROJECT_PATH@/assets/images/obelisk-1.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -957,7 +957,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/obelisk-1-1400x1998.jpg",
+              "src": "@PROJECT_PATH@/assets/images/obelisk-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1197,7 +1197,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-285-1400x1918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/r0000029-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1224,7 +1224,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-286-1400x1053.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-286.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1359,7 +1359,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-289-1400x1809.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-289.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
