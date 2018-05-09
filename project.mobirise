@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1053",
-    "currentPage": "schilderijen.html",
+    "currentPage": "schetsboek.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.7.2",
     "favicon": "",
     "noImageResize": "true",
@@ -496,7 +496,7 @@
             "showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000045-2-1999x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000031-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -507,7 +507,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000046-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000032-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -518,7 +518,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000044-2-1999x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000033-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -529,7 +529,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000041-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000036-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -540,7 +540,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000033-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000038-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -551,7 +551,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000043-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000041-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -562,7 +562,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000038-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000042-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -573,7 +573,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000032-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000043-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -584,7 +584,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000031-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000044-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -595,7 +595,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000042-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000046-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -606,7 +606,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000036-2-2000x1324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000045-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -617,7 +617,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000030-3-2000x3019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000030-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -628,7 +628,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000035-2-2000x3019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000034-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -639,7 +639,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000034-2-2000x3019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000035-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -650,7 +650,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000039-2-2000x3019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000037-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -661,7 +661,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/r0000037-2-2000x3019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/r0000039-2.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/r0000040-2.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -675,10 +686,10 @@
           },
           "articleLayout": true,
           "_tags": [
-            "Theme"
+            "Thema"
           ],
           "_name": "slider2",
-          "_anchor": "slider2-n"
+          "_anchor": "slider2-1n"
         }
       ]
     },
