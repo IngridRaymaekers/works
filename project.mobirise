@@ -11,8 +11,8 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 49,
-    "versionPublish": "4.4.1",
+    "uniqCompNum": 59,
+    "versionPublish": "4.7.2",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110250481-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110250481-1');\r\n</script>\r\n",
@@ -21,14 +21,16 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://ingridraymaekers.github.io/works/",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "contact.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -158,7 +160,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Nieuws",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -289,7 +291,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Over",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -420,7 +422,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Schetsboek",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1096,7 +1098,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Tekeningen",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1384,7 +1386,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "copyright",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
