@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1053",
-    "currentPage": "schetsboek.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,8 +11,8 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 60,
-    "versionPublish": "4.7.2",
+    "uniqCompNum": 62,
+    "versionPublish": "4.7.6",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110250481-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110250481-1');\r\n</script>\r\n",
@@ -23,7 +23,8 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "contact.html": {
@@ -1390,6 +1391,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-14"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/normandie-witte-huis.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1p"
         }
       ]
     },
